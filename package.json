@@ -1,0 +1,22 @@
+{
+  "name": "cosmos",
+  "version": "1.0.0",
+  "description": "Cosmic Consciousness",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrissesuliguin/cosmos.git"
+  },
+  "keywords": [
+    "cosmos"
+  ],
+  "author": "chrisses",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrissesuliguin/cosmos/issues"
+  },
+  "homepage": "https://github.com/chrissesuliguin/cosmos#readme"
+}
